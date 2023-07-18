@@ -1,0 +1,39 @@
+body {
+  background-image: url("blackjack.jpg");
+}
+
+.main-container {
+  border: 1px solid rgb(39, 40, 41);
+  text-align: center;
+  background-color: rgb(39, 40, 41);
+  opacity: 95%;
+  padding: 25px;
+  margin: auto;
+  margin-top: 100px;
+  width: 50%;
+  font-size: larger;
+  font-family: cursive;
+  color: white;
+}
+
+h2 {
+  color: #ffa500;
+}
+span {
+  color: rgb(70, 156, 36);
+}
+
+button {
+  border: none;
+  padding: 10px;
+  font-size: large;
+  background-color: #ffa500;
+  width: 150px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(70, 156, 36);
+}
